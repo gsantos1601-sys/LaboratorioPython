@@ -28,6 +28,7 @@ El objetivo es llevar un registro ordenado de lo que voy aprendiendo y tener un 
 | 3 | 22 | Tienda online simple | Variables, tipos de datos, `print()` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fdPcvmvT9J498V0p-dP-7-_qzm549kW1?usp=sharing) |
 | 4 | 41 | Generador de correos | Strings, `strip()`, `replace()`, `lower()`, f-strings | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qw2rthVg-HkZr5qvktJvKvLhx4_F1dtr?usp=sharing) |
 | 5 | 50 | Reto: Receta de cocina | `input()`, `int()`, f-strings | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CsxgoRnobVn_vz4Xi8Q1iQezdw4Widrp?usp=sharing) |
+| 5 | 53 | Sistema generador de ID único | `input()`, slicing, `random`, f-strings | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IWmC7BtGlaaXPCR9RaOoY42F8LL5h-Do?usp=sharing) |
 
 > 🔄 El índice se actualiza cada vez que se agrega una práctica nueva.
 
