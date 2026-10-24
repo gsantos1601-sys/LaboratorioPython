@@ -22,13 +22,10 @@ El objetivo es llevar un registro ordenado de mi aprendizaje y tener un portafol
 ## 🗂️ Estructura del repositorio
 
 ```text
-python-laboratory/
-├── README.md
-├── seccion_03/
-│   └── sec03_cap22_tienda_online.ipynb
-├── seccion_04/
-│   └── ...
-└── ...
+| Sección | Capítulo | Práctica | Temas | Abrir |
+|:-------:|:--------:|----------|-------|:-----:|
+| 3 | 20 | Reserva de hoteles | Variables, tipos de datos, `print()` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rxvchRNlNK43LvIYO-fuPcPELrKdQR1K?usp=sharing) |
+| 3 | 22 | Tienda online simple | Variables, tipos de datos, `print()` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fdPcvmvT9J498V0p-dP-7-_qzm549kW1?usp=sharing) |
 ```
 
 - Una carpeta por **sección** del curso.
@@ -38,7 +35,8 @@ python-laboratory/
 
 | Sección | Capítulo | Práctica | Temas | Abrir |
 |:-------:|:--------:|----------|-------|:-----:|
-| 3 | 22 | Tienda online | Variables, tipos de datos, `print()` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gsantos1601-sys/python-laboratory/blob/main/seccion_03/sec03_cap22_tienda_online.ipynb) |
+| 3 | 22 | Tienda online simple | Variables, tipos de datos, `print()` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fdPcvmvT9J498V0p-dP-7-_qzm549kW1?usp=sharing) |
+| 3 | 20 | Reserva de hoteles | Variables, tipos de datos, `print()` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rxvchRNlNK43LvIYO-fuPcPELrKdQR1K?usp=sharing) |
 
 > 🔄 El índice se actualiza cada vez que se agrega una práctica nueva.
 
