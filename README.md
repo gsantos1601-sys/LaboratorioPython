@@ -34,7 +34,7 @@ El objetivo es llevar un registro ordenado de lo que voy aprendiendo y tener un 
 | 7 | 89 | Cajero automático | `while`, `if` / `elif` / `else`, validación con `.isdigit()`, menú de operaciones | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qThUU03hjWk4qEK7KRmsMOMuZuK_K32F?usp=sharing) |
 | 9 | 134 | Promedio de calificaciones | Listas, `append()`, ciclo `for`, promedio | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17GcELISUoN2jJ7vTK66r0uTyTlGo_e06?usp=sharing) |
 | 10 | 175 | Inventario de productos | Funciones, listas de diccionarios, `try-except`, `max()`, menú interactivo | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ciTQN_PYHo5VK7n0OYumwczcbq7PjZ0R?usp=sharing) |
-
+| 10 | 176 | Máquina de snacks | Funciones, listas de diccionarios, acumulación de saldo, validaciones, facturación | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ND3HV4exjaRNHEkgx-cLdJkllTTIx-mP?usp=sharing) |
 
 
 > 🔄 El índice se actualiza cada vez que se agrega una práctica nueva.
