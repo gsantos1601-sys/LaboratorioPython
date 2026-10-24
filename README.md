@@ -2,7 +2,7 @@
 
 # 🐍 Python Laboratory
 
-**Cuadernos de práctica para aprender Python paso a paso**
+**Portafolio de prácticas de Python**
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
@@ -14,9 +14,9 @@
 
 ## 📖 Sobre el proyecto
 
-Este repositorio reúne mis prácticas de laboratorio de Python. Cada práctica es un **cuaderno independiente** en Google Colab, organizado por sección y capítulo, con su descripción, el código comentado, la explicación de lo importante y un ejemplo de salida.
+Este repositorio reúne las prácticas de laboratorio de Python que he realizado. Cada práctica es un **cuaderno independiente** en Google Colab, organizado por sección y capítulo, con el planteamiento del problema, lo que hace el programa, el código comentado y su resultado.
 
-El objetivo es llevar un registro ordenado de mi aprendizaje y tener un portafolio claro de lo que voy practicando.
+El objetivo es llevar un registro ordenado de lo que voy aprendiendo y tener un portafolio claro de mi progreso.
 
 ## 📚 Índice de prácticas
 
@@ -26,6 +26,7 @@ El objetivo es llevar un registro ordenado de mi aprendizaje y tener un portafol
 |:-------:|:--------:|----------|-------|:-----:|
 | 3 | 20 | Reserva de hoteles | Variables, tipos de datos, `print()` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rxvchRNlNK43LvIYO-fuPcPELrKdQR1K?usp=sharing) |
 | 3 | 22 | Tienda online simple | Variables, tipos de datos, `print()` | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fdPcvmvT9J498V0p-dP-7-_qzm549kW1?usp=sharing) |
+| 4 | 41 | Generador de correos | Strings, `strip()`, `replace()`, `lower()`, f-strings | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qw2rthVg-HkZr5qvktJvKvLhx4_F1dtr?usp=sharing) |
 
 > 🔄 El índice se actualiza cada vez que se agrega una práctica nueva.
 
@@ -41,12 +42,11 @@ No necesitas instalar nada.
 
 Todos los cuadernos siguen la misma estructura:
 
-1. **Título** con sección y capítulo
-2. **Descripción** de lo que hace la práctica
-3. **Temas** que se practican
-4. **Código** comentado
-5. **Explicación** de lo más importante
-6. **Salida esperada**
+1. **Planteamiento:** el problema que se quiere resolver
+2. **Qué hace el programa:** los pasos de la solución
+3. **Conceptos aplicados:** lo que se usó en la práctica
+4. **Código:** comentado
+5. **Resultado:** la salida del programa
 
 ## 🛠️ Herramientas
 
