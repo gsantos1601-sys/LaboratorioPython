@@ -2,7 +2,7 @@
 
 # 🐍 Python Laboratory
 
-**Cuadernos de práctica para aprender Python paso a paso**
+**Cuadernos de prácticas**
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
