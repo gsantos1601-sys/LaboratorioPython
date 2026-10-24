@@ -31,6 +31,11 @@ El objetivo es llevar un registro ordenado de lo que voy aprendiendo y tener un 
 | 5 | 53 | Sistema generador de ID único | `input()`, slicing, `random`, f-strings | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IWmC7BtGlaaXPCR9RaOoY42F8LL5h-Do?usp=sharing) |
 | 7 | 89 | Tienda en línea con descuentos | `if` / `elif` / `else`, operador `and`, porcentajes | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1vi7sIeZRVLJubf9xhW9F161sU3gGjQSb?usp=sharing) |
 | 7 | 89 | Sistema bancario | `while`, `if` / `elif` / `else`, PIN con intentos, menú de operaciones | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xAIEnDpbqhyTx9qTLntPWrIIuVN59Qcx?usp=sharing) |
+| 7 | 89 | Cajero automático | `while`, `if` / `elif` / `else`, validación con `.isdigit()`, menú de operaciones | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qThUU03hjWk4qEK7KRmsMOMuZuK_K32F?usp=sharing) |
+| 9 | 134 | Promedio de calificaciones | Listas, `append()`, ciclo `for`, promedio | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17GcELISUoN2jJ7vTK66r0uTyTlGo_e06?usp=sharing) |
+| 10 | 175 | Inventario de productos | Funciones, listas de diccionarios, `try-except`, `max()`, menú interactivo | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ciTQN_PYHo5VK7n0OYumwczcbq7PjZ0R?usp=sharing) |
+
+
 
 > 🔄 El índice se actualiza cada vez que se agrega una práctica nueva.
 
