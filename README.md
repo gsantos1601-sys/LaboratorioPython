@@ -36,8 +36,7 @@ El objetivo es llevar un registro ordenado de lo que voy aprendiendo y tener un 
 | 10 | 175 | Inventario de productos | Funciones, listas de diccionarios, `try-except`, `max()`, menú interactivo | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ciTQN_PYHo5VK7n0OYumwczcbq7PjZ0R?usp=sharing) |
 | 10 | 176 | Máquina de snacks | Funciones, listas de diccionarios, acumulación de saldo, validaciones, facturación | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ND3HV4exjaRNHEkgx-cLdJkllTTIx-mP?usp=sharing) |
 | 10 | 174 | Calculadora con funciones | Funciones con `return`, menú interactivo, condicionales, división entre cero | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WdS9dUrJLzal0xLvkKocvgjB7M0Eh037?usp=sharing) |
-| 11 | — | Análisis exploratorio del dataset Titanic | Pandas, NumPy, Matplotlib y Seaborn: limpieza de datos, estadísticas descriptivas y visualizaciones | [![Abrir en Colab](https://colab.research.google.com/drive/1r_FWBtJ6f0Mz1PQaJgWv3FgXQSTwmmZM?usp=sharing) |
-
+| 11 | — | Análisis exploratorio del dataset Titanic | Pandas, NumPy, Matplotlib y Seaborn: limpieza de datos, estadísticas descriptivas y visualizaciones | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1r_FWBtJ6f0Mz1PQaJgWv3FgXQSTwmmZM?usp=sharing) |
 > 🔄 El índice se actualiza cada vez que se agrega una práctica nueva.
 
 ## ▶️ Cómo usar los cuadernos
